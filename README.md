@@ -7,6 +7,6 @@ This repository contains code for sentiment analysis of film reviews using Natur
 
 3. Preprocessing – Clean and normalize the text.
 
-4. Text Representation – Convert text data into numerical format using techniques (word embeddings).
+4. Text Representation – Convert text data into numerical format using technique (word embeddings).
 
 5. NLP Model Training – Train a machine learning model to classify the sentiment of film reviews as positive or negative.
